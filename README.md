@@ -1,2 +1,2 @@
 # VanillaGAN
-This is Vanilla GAN network trained on MNIST dataset
+This is Vanilla GAN  trained on MNIST dataset
